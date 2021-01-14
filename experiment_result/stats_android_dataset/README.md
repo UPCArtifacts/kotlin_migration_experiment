@@ -1,26 +1,26 @@
 # General stats
 
 ## Number Commits (from main development branch)
-*   mean 863.5435356200528
+*   mean 863.54
 *   median 330
-*   std 1781.8496973648216
+*   std 1781.8
 
-![Distribution Number of Commits](allnrCommits.pdf)
+[Distribution Number of Commits](allnrCommits.pdf)
 
 ## Lines of Code LOC
-* mean 20217.0290237467
+* mean 20217.02
 * median 7951
-* std 36558.22760213094
+* std 36558.2
 
 
-![Distribution LOC](allcloc.pdf)
+[Distribution LOC](allcloc.pdf)
 
 ## File 
-* mean 257.2342105263158
+* mean 257.23
 * median 139.0
-* std 360.38405985054595
+* std 360.38
 
-![Distribution Files](allfiles.pdf)
+[Distribution Files](allfiles.pdf)
 
 # Stats per app
 

@@ -5,7 +5,7 @@
 *   median 330
 *   std 1781.8496973648216
 
-![Distribution Number of Commits](allnrCommits.pdf)
+![Distribution Number of Commits](allnrCommits.pdf?raw=true)
 
 ## Lines of Code LOC
 * mean 20217.0290237467
@@ -13,14 +13,14 @@
 * std 36558.22760213094
 
 
-![Distribution LOC](allcloc.pdf)
+![Distribution LOC](allcloc.pdf?raw=true)
 
 ## File 
 * mean 257.2342105263158
 * median 139.0
 * std 360.38405985054595
 
-![Distribution Files](allfiles.pdf)
+![Distribution Files](allfiles.pdf?raw=true)
 
 # Stats per app
 

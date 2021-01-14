@@ -1,8 +1,10 @@
 # Migration from Java to Kotlin
 
 Appendix of paper: 
+
 ```
-Why did developers migrate AndroidApplications from Java to Kotlin? Matias Martinez, Bruno Gois Mateus.
+Why did developers migrate AndroidApplications from Java to Kotlin? 
+Matias Martinez, Bruno Gois Mateus.
 ```
 
 
@@ -15,21 +17,19 @@ Miga is publicly available at: [https://github.com/UPHF/migA](https://github.com
 
 ## Data from the experiment:
 
-### Commits that migrate code
+### Migration data
 
-[List of Android applications analyzed]()
-
+[List of Android applications analyzed](./experiment_result/apps_analyzed.md)
 
 [Stats from the Android applications analyzed (number of files, commits, etc)](/experiment_result/stats_android_dataset/README.md)
 
 ### Survey:
 
-[Questions posed to the developers]().
+[Questions posed to the developers](./experiment_result/questions.md).
 
-[Concepts extracted from the survey]().
+[Concepts extracted from the survey](./experiment_result/categories_and_concepts.md).
 
-[Example of concepts extraction]().
-
+[Example of concepts extraction](./experiment_result/examples_extraction_concepts.md).
 
 
 

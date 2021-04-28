@@ -31,7 +31,7 @@ Miga is publicly available at: [https://github.com/UPHF/migA](https://github.com
 
 [Example of concepts extraction](./experiment_result/examples_extraction_concepts.md).
 
-
+[Links to articles from gray literature](./experiment_result/gray_literature_links.md)
 
 ## Contact:
 

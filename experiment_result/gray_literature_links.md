@@ -1,6 +1,9 @@
 	
   # Post analyzed from the gray literature
   
+  
+  Queries applied: 1) ` Android Java Kotlin migration` and  2) `Android Java vs Kotlin`
+  
 *	https://medium.com/monsterculture/moving-from-java-to-kotlin-on-android-f60c593c39f8
 *	https://www.bignerdranch.com/blog/migrating-an-android-app-from-java-to-kotlin/
 *	https://www.mobileappdaily.com/java-to-kotlin-android-app-migration
